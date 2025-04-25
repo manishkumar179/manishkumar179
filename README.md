@@ -1,15 +1,13 @@
 
+
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishkumar179&label=Profile%20views&color=0e75b6&style=flat" alt="manishkumar179" /> </p>
 
 - 🌱 I’m currently learning **JAVA & DSA**
-
-<img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 
 - 👨‍💻 All of my projects are available at [http://linkedin.com/in/manish-kumar-9114712a2](http://linkedin.com/in/manish-kumar-9114712a2)
 
@@ -17,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/http://linkedin.com/in/manish-kumar-9114712a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/manish-kumar-9114712a2" height="30" width="40" /></a>
 <a href="https://instagram.com/maniiiiish1613" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maniiiiish1613" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/manish179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/manish179/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/manish179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manish179" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
