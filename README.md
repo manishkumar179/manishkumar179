@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishkumar179&label=Profile%20views&color=0e75b6&style=flat" alt="manishkumar179" /> </p>
 
-- 🌱 I’m currently learning **JAVA & DSA**
+- 🌱 I’m currently learning **JAVA & DSA & MERN STACK Developer**
 
 - 👨‍💻 All of my projects are available at [http://linkedin.com/in/manish-kumar-9114712a2](http://linkedin.com/in/manish-kumar-9114712a2)
 
