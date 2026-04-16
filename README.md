@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [http://linkedin.com/in/manish-kumar-9114712a2](http://linkedin.com/in/manish-kumar-9114712a2)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" width="500px" >
+<p align="left" width="500" >
 <a href="https://linkedin.com/in/http://linkedin.com/in/manish-kumar-9114712a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/manish-kumar-9114712a2" height="30" width="40" /></a>
 <a href="https://instagram.com/maniiiiish1613" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maniiiiish1613" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manish179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manish179" height="30" width="40" /></a>
